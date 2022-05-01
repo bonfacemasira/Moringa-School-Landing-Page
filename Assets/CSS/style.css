@@ -26,10 +26,10 @@ span{
     justify-content: center;
 }
 
-.project{
-    display: flex;
-    align-items: center;
-    justify-content: center;   
+.explanation{
+    color: black;
+    font-size: 12px;
+    margin-left: 10px;
 }
 
 .rose{

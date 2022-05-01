@@ -1,11 +1,22 @@
 body{
     font-family: 'Nunito';
+
     background-color: white;
 }
 
 .navigation_bar{
     padding-top: 10px;
     padding-bottom: 5px;
+    display: flex;
+}
+
+.menu{
+    padding-left: 950px;
+}
+
+ul{
+    padding-left: 10px;
+    padding-top: 10px;
 }
 
 li{
@@ -25,6 +36,24 @@ span{
     align-items: center;
     justify-content: center;
 }
+img{
+    height: 450px;
+}
+
+.left{
+    float: left;
+    text-align: left;
+}
+
+.right{
+    float: right;
+    text-align: left;
+}
+
+.img{
+    max-width: 400px;
+}
+
 
 .explanation{
     color: black;
@@ -39,6 +68,7 @@ span{
 button{
     background-color: #EC4067;
     border-radius: 5px;
+    border: 0;
     padding-top: 10px;
     padding-right: 15px;
     padding-bottom: 10px;
@@ -55,7 +85,7 @@ a{
 }
 
 .mentor{
-    flex: 33.33%;
+    flex: 20%;
     padding: 5px;
 }
 

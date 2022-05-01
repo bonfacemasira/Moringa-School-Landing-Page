@@ -20,6 +20,18 @@ span{
     color: #EC4067;
 }
 
+.section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.project{
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+
 .rose{
     width: 150px;
 }

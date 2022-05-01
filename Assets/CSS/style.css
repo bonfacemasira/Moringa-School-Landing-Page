@@ -31,13 +31,22 @@ button{
     padding-right: 15px;
     padding-bottom: 10px;
     padding-left: 15px;
-    margin-left: 25px;
     font-size: 20px;
 }
 
 a{
     color: #EC4067;
 }
+
+.technical_mentors {
+    display: flex;
+}
+
+.mentor{
+    flex: 33.33%;
+    padding: 5px;
+}
+
 
 .still_not_sure{
     padding-top: 50px;

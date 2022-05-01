@@ -34,7 +34,6 @@ span{
 .section{
     display: flex;
     align-items: center;
-    justify-content: center;
 }
 img{
     height: 450px;
@@ -47,17 +46,18 @@ img{
 .left{
     float: left;
     text-align: left;
+    padding-left: 30px;
 }
 
 .right{
     float: right;
     text-align: left;
+    padding-left: 30px;
 }
 
 .img{
     max-width: 400px;
 }
-
 
 .explanation{
     color: black;
@@ -91,13 +91,13 @@ a{
 
 .technical_mentors {
     display: flex;
+    width: 100%;
 }
 
 .mentor{
     flex: 20%;
     padding: 5px;
 }
-
 
 .still_not_sure{
     padding-top: 50px;

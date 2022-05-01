@@ -1,0 +1,12 @@
+body{
+    font-family: 'Nunito';
+    background-color: white;
+}
+
+
+#designer{
+    height: 150px;
+    background-color: rgb(228, 222, 222);
+    text-align: center;
+    position: relative;
+}

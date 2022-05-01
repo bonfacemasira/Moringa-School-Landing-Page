@@ -40,6 +40,10 @@ img{
     height: 450px;
 }
 
+.exploreBtn{
+    background-color: white;
+}
+
 .left{
     float: left;
     text-align: left;
@@ -65,10 +69,15 @@ img{
     width: 150px;
 }
 
+.start{
+    background-color: rgb(216, 215, 215);
+    color: black;
+}
+
 button{
     background-color: #EC4067;
     border-radius: 5px;
-    border: 0;
+    border-color: #EC4067;
     padding-top: 10px;
     padding-right: 15px;
     padding-bottom: 10px;
